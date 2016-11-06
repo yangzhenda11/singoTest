@@ -1,0 +1,194 @@
+#ones {
+  width: 100%;
+  overflow: hidden;
+  background: url(../images/login-bg.png) no-repeat center;
+}
+#ones div {
+  color: #fff;
+  width: 100%;
+  height: 40%;
+  font-size: 1rem;
+}
+#ones div:nth-child(1) {
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+}
+#ones div:nth-child(1) span:nth-child(1) {
+  width: 40px;
+  height: 30px;
+  display: block;
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#ones div:nth-child(1) span:nth-child(2) {
+  width: 50px;
+  height: 50px;
+  display: block;
+  float: right;
+}
+#ones div:nth-child(2) {
+  height: 89px;
+  width: 100%;
+  position: relative;
+}
+#ones div:nth-child(2) p {
+  display: block;
+  font-size: 14px;
+  position: absolute;
+  margin: 0 auto;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+#ones div:nth-child(2) p:nth-child(1) {
+  font-size: 40px;
+  top: 5px;
+  font-family: "微软雅黑";
+}
+#ones div:nth-child(2) p:nth-child(2) {
+  font-size: 20px;
+  top: 60%;
+}
+#ones div:nth-child(3) {
+  width: 100%;
+  height: 44px;
+  color: #fff;
+  font-size: 14px;
+}
+#ones div:nth-child(3) ul {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -moz-box;
+  background: rgba(255, 255, 255, 0.5);
+}
+#ones div:nth-child(3) ul li {
+  width: 50%;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-box-flex: 1;
+  box-flex: 1;
+  text-align: center;
+  line-height: 44px;
+  position: relative;
+}
+#ones div:nth-child(3) ul li i {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #fff;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.hidden {
+  display: none;
+}
+#loginSection {
+  width: 100%;
+  padding-bottom: 10%;
+  padding: 0 4% 6px 4%;
+  background: #fff;
+  box-sizing: border-box;
+}
+#loginSection #inputDATA {
+  width: 100%;
+  height: 102px;
+}
+#loginSection #inputDATA li {
+  position: relative;
+  border-bottom: 1px solid #e2e2e2;
+  height: 50px;
+}
+#loginSection #inputDATA li span {
+  color: #cacaca;
+  width: 20px;
+  height: 20px;
+  margin-top: 16px;
+  margin-right: 5px;
+}
+#loginSection #inputDATA li span:before {
+  font-size: 20px;
+}
+#loginSection #inputDATA li input {
+  border: 0;
+  outline: none;
+}
+#loginSection #inputDATA li .Password {
+  position: absolute;
+  top: 10px;
+  right: 0;
+  border: 1px solid #F14E41;
+  padding: 0px 1em;
+  height: 50%;
+  line-height: 25px;
+  font-size: 12px;
+  border-radius: 5px;
+  color: #F04848;
+}
+#loginSection #forgetPassword {
+  width: 100%;
+  height: 20px;
+  font-size: 12px;
+  background: #fff;
+  padding: .5em 0;
+}
+#loginSection #forgetPassword span {
+  text-align: center;
+  display: block;
+  float: right;
+  color: #666;
+}
+#loginSection #logining {
+  background: #2ec975;
+  text-align: center;
+  line-height: 44px;
+  font-size: 18px;
+  border-radius: 10px;
+}
+#loginSection #logining span {
+  word-spacing: 5px;
+}
+#loginFooter {
+  width: 100%;
+  background: #fff;
+  box-sizing: border-box;
+  padding: 13% 0;
+}
+#loginFooter #loginFooterFieldset {
+  width: 100%;
+}
+#loginFooter #loginFooterFieldset legend {
+  text-align: center;
+  line-height: 28px;
+  height: 40px;
+  color: #D7D7D7;
+  font-size: 1.6em;
+}
+#loginFooter #loginFooterFieldset ul {
+  width: 100%;
+  display: -moz-box;
+  display: -webkit-box;
+}
+#loginFooter #loginFooterFieldset ul li {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-box-flex: 1;
+  box-flex: 1;
+}
+#loginFooter #loginFooterFieldset ul li img {
+  width: 45%;
+  height: auto;
+  display: block;
+  margin: auto;
+  max-width: 176px;
+}
+/*# sourceMappingURL=login.css.map */

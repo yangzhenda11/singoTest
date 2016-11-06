@@ -1,0 +1,193 @@
+{
+  "home.html": {
+    "href": "home.html",
+    "resources": [
+      "images/index/0deb60e7b35e1caef09bbe38b6d57702.jpg",
+      "images/index/shopping_dog.png",
+      "images/index/76f0991db2fd2c984c90e28cf58f6831.jpg",
+      "images/index/a3d60e49c14f63f91fd9d64c8ee7d946.jpg",
+      "images/index/2dba0ea282dd815e10203cf8faf9b9ff.jpg",
+      "images/index/eb3e2434f34d0c272f6609b3bcb81edd.jpg",
+      "images/index/logo_03.jpg",
+      "images/index/logo1_03.jpg",
+      "images/index/01.png",
+      "images/index/02.png",
+      "images/index/03.png",
+      "images/index/04.png",
+      "images/index/de8d19f2e07287527cffea450d4e04ee.jpg",
+      "images/index/a5392fc5ca0250ff14680b2f6ba1de83.jpg",
+      "images/index/c01b5d12a221d64785c9b36b3587fc2c.jpg",
+      "images/index/surprise.jpg",
+      "images/index/asd4.jpg",
+      "images/index/asd5.jpg",
+      "images/index/asd6.jpg",
+      "images/index/asd7.jpg",
+      "images/index/asd8.jpg",
+      "images/index/bottomimg_03.png",
+      "images/index/883d6e29bf9dfd2deb67b3ebaed5b873.jpg",
+      "images/index/9d8d0f8ca29f28cb97b2b717a934bba1.jpg",
+      "images/index/978ed9c73baff1ca857da67b5119ca62.jpg",
+      "images/index/9d170eb25a8051f5b52aefb1b24e4d7e.jpg",
+      "images/index/7ec03915bdbfc82848fecc0433a57576.jpg",
+      "images/index/2@3x.png",
+      "images/index/1@3x.png",
+      "images/index/7@3x.png",
+      "images/index/3@3x.png",
+      "images/index/6@3x.png",
+      "images/index/asd1.jpg",
+      "images/index/asd2.jpg",
+      "images/index/asd3.jpg",
+      "images/index/footer_dog.jpg",
+      "images/index/wbuy.jpg",
+      "images/index/jdaiyan.png",
+      "images/index/pingjia-user1.jpg",
+      "images/index/aef2027fc9f310e9b3cfbbf036f95e36.jpg",
+      "images/index/wbuyp1.png",
+      "images/index/533b948208bd4c10ade837707c768277.jpg",
+      "images/index/3fc981a0ff7bfbf8cae1ecd45deedd65.jpg",
+      "images/index/11.png"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "goodsSearch.html": {
+    "href": "goodsSearch.html",
+    "resources": [
+      "images/JP.jpg"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "goodsList.html": {
+    "href": "goodsList.html",
+    "priority": 0
+  },
+  "proList.html": {
+    "href": "proList.html",
+    "priority": 0
+  },
+  "detail.html": {
+    "href": "detail.html",
+    "resources": [
+      "images/else1.jpg",
+      "images/else2.jpg",
+      "images/else3.jpg",
+      "images/else4.jpg",
+      "images/else5.jpg",
+      "images/else6.jpg"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "xq.html": {
+    "href": "xq.html",
+    "resources": [
+      "images/xq1.jpg",
+      "images/xq2.jpg",
+      "images/xq3.jpg",
+      "images/xq4.jpg",
+      "images/xq5.jpg",
+      "images/xq6.jpg",
+      "images/xq7.jpg",
+      "images/xq8.jpg",
+      "images/xq9.jpg",
+      "images/xq10.jpg",
+      "images/xq11.jpg",
+      "images/xq12.jpg",
+      "images/xq13.jpg",
+      "images/xq14.jpg",
+      "images/xq15.jpg",
+      "images/xq16.jpg",
+      "images/xq17.jpg",
+      "images/xq18.jpg",
+      "images/xq19.jpg",
+      "images/xq20.jpg",
+      "images/xq21.jpg",
+      "images/xq22.jpg",
+      "images/xq23.jpg",
+      "images/xq24.jpg"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "cartgory.html": {
+    "href": "cartgory.html",
+    "resources": [
+      "images/cffood1.jpg"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "login.html": {
+    "href": "login.html",
+    "resources": [
+      "images/login_ico1.png",
+      "images/login_ico2.png",
+      "images/login_ico4.png"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "register.html": {
+    "href": "register.html",
+    "priority": 0
+  },
+  "user.html": {
+    "href": "user.html",
+    "resources": [
+      "images/my11.jpg",
+      "images/myorder.png",
+      "images/pinjia.png",
+      "images/myzhixun.png",
+      "images/myfav.png",
+      "images/myzhiliao.png",
+      "images/quan.png",
+      "images/xiaoxi.jpg",
+      "images/APPyouli.png",
+      "images/yushou.png"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "js/zepto_1.1.3.js",
+      "js/iscroll-probe.js",
+      "assets/js/swiper-3.3.1.min.js",
+      "js/home.js",
+      "js/goodsList.js",
+      "js/Eshop.json",
+      "js/detail.js",
+      "js/cartgory.js",
+      "js/login.js",
+      "js/register.js",
+      "js/user.js",
+      "fonts/css/font-awesome.css",
+      "assets/css/swiper-3.3.1.min.css",
+      "css/reset.css",
+      "css/detail.css",
+      "css/xq.css",
+      "fonts/css/font-awesome.min.css",
+      "css/goodsList.css",
+      "css/cartgory.css",
+      "css/home.css",
+      "css/register.css",
+      "css/login.css",
+      "css/user.css"
+    ],
+    "refer": [
+      "home.html",
+      "goodsSearch.html",
+      "goodsList.html",
+      "proList.html",
+      "detail.html",
+      "xq.html",
+      "cartgory.html",
+      "login.html",
+      "register.html",
+      "user.html"
+    ],
+    "priority": 0
+  }
+}
